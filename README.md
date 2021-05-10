@@ -17,11 +17,11 @@ University’s management require an automation which can create a classifier ca
 1. Importing the data. Analyzing the dimensions of the data. Visualizing the data.
 2. Training, tuning and testing AIML image classifier model using:
 
-  • Supervised learning algorithms for training
-  
-  • Neural networks for training
-  
-  • CNN for training
+      • Supervised learning algorithms for training
+
+      • Neural networks for training
+
+      • CNN for training
 
 3. Comparing the results from the above steps.
 4. Pickling the best performing model.
