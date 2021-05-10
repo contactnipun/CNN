@@ -32,7 +32,7 @@ Domain: Automobile
 
 **Context** A brand research company wants to understand which cars or car manufacturers are popular in a certain area of the city or locality. Company has a team which takes pictures of the cars randomly through the day. Using this the company wants to set up an automation which can classify the make of the car once the picture has been given as an input.
 
-**Task** 
+**Tasks** 
 1. Building the image dataset to be used by the AI team to build an image classifier data. 
 2. Importing and displaying the images in python against their labels. 
 
@@ -49,7 +49,7 @@ The dataset comprises of images from 17 plant species. Can be downloaded from Te
 **Objective** 
 University requires an automation which can create a classifier capable of determining a flower’s species from a photo 
 
-**Steps**
+**Tasks**
 1. Importing the data. Analyzing the dimensions of the data.
 2. Preprocessing the data.
 3. Data visualisation:
