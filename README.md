@@ -21,6 +21,7 @@ University’s management require an automation which can create a classifier ca
   • Neural networks for training
   
   • CNN for training
+
 3. Comparing the results from the above steps.
 4. Pickling the best performing model.
 5. Import a test image to predict the class. Displaying the image. Using the best trained image classifier model to predict the class
