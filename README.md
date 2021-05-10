@@ -16,6 +16,7 @@ University’s management require an automation which can create a classifier ca
 **Tasks**
 1. Importing the data. Analyzing the dimensions of the data. Visualizing the data.
 2. Training, tuning and testing AIML image classifier model using:
+
   • Supervised learning algorithms for training
   
   • Neural networks for training
